@@ -9,7 +9,8 @@ Components:
 3. Streamlit Dashboard: A web application that visualizes processed taxi trip data, including metrics, trip details, and geospatial data on maps.
 
 
-TODO: Predicting trip prices and tips.
+TODO: Predicting trip prices and tips. (Done)
+TODO: Demand on certain zones over time.
 
 ![Untitled Diagram (1)](https://github.com/user-attachments/assets/04125268-cbed-4408-b4f2-7df6317c81f4)
 
